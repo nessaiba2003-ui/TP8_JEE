@@ -26,3 +26,6 @@ ma.example.demo.repositories : Accès à la base de données.
 ma.example.demo.services : Logique métier de l'application.
 ma.example.demo.web : Contrôleurs REST (API).
 ma.example.demo.exceptions : Gestion globale des erreurs.
+
+📝 Conclusion
+Ce TP m'a permis de comprendre l'importance des DTO pour la sécurité et la flexibilité d'une API, ainsi que l'utilité d'une couche Service pour garder des contrôleurs légers et une documentation Swagger pour faciliter le travail d'intégration frontend.
