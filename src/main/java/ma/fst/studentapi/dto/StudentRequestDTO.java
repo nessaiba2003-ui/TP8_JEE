@@ -23,3 +23,5 @@ public record StudentRequestDTO(
         Integer age
 ) {
 }
+//@not blank verifie que la chaine ni vide ni compose despace
+       // @not null garantit que lage est fournit
